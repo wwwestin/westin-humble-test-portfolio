@@ -2,6 +2,8 @@ body {
   background-image: url("https://www.outdoorpainter.com/wp-content/uploads/2019/06/painting-cityscapes-Chicago_Down_Low-NancieKingMertz_CMYK.jpg");
 }
 h1 {
+  font-family: optima, sans-serif;
+  font-weight: 600;
   text-align: center;
   font-size: xx-large;
 }
@@ -12,7 +14,6 @@ img[src = "https://avatars.githubusercontent.com/u/89747738?s=400&u=6a792f5bf105
   margin-right: auto;
 }
 h2 {
-  border: 5px solid black;
   text-align: center;
 }
 h3 {
